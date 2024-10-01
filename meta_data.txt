@@ -33,7 +33,7 @@ dim_date.csv
 
 *******************************************
 source:www.data.gov.in
-PCS_31MAR2024.csv
+PCS_2024.csv
 -state:The name of the state where the PCS are installed
 -No. of PCS: state wise PCS data till 31stMar2024
 
